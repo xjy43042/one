@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# only for plot
-
+# kenerl scatter plot
 import xarray as xr
 import os
 import pandas as pd
