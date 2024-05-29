@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+
+# prepare corresponding CRdata of station to make a validation
+
 import xarray as xr
 import os
 import pandas as pd
